@@ -1,0 +1,92 @@
+[
+  {
+    "id":1,
+    "img":"https://th.bing.com/th?id=OIF.2HO6ZhA5%2bO1IGoA0v68UBA&w=316&h=180&c=7&r=0&o=5&pid=1.7"
+    "name": "Wireless Headphones",
+    "price": 120.99,
+    "description": "Noise-cancelling wireless headphones with 20-hour battery life.",
+    "brand": "AudioMax",
+    "availability": "In Stock"
+  },
+  {
+    "id": 2,
+    "img": "https://th.bing.com/th/id/OIP._eWsHN8t4zN9ND9WPtHBtwHaEK?w=331&h=186&c=7&r=0&o=5&pid=1.7",
+    "name": "Smartphone",
+    "price": 799.99,
+    "description": "Latest 5G smartphone with a 6.5-inch OLED display and 128GB storage.",
+    "brand": "TechMaster",
+    "availability": "In Stock"
+  },
+  {
+    "id": 3,
+    "img": "data:image/jpeg;base64,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",
+    "name": "Gaming Laptop",
+    "price": 1499.99,
+    "description": "High-performance laptop with 16GB RAM, 1TB SSD, and an RTX 3060 GPU.",
+    "brand": "PowerGamer",
+    "availability": "Out of Stock"
+  },
+  {
+    "id": 4,
+    "img": "https://th.bing.com/th/id/OIP.dYWi9VjKxY0OsBVtc6JMpwHaFj?w=228&h=180&c=7&r=0&o=5&pid=1.7",
+    "name": "4K TV",
+    "price": 699.99,
+    "description": "55-inch 4K Ultra HD smart TV with HDR support and built-in streaming apps.",
+    "brand": "VisionPro",
+    "availability": "In Stock"
+  },
+  {
+    "id": 5,
+    "img": "https://th.bing.com/th/id/OIP.5qJYUBpSy9UCgtmGVMIUtAHaHa?w=193&h=194&c=7&r=0&o=5&pid=1.7",
+    "name": "Smart Watch",
+    "price": 59.99,
+    "description": "Portable Bluetooth speaker with waterproof design and 12-hour playtime.",
+    "brand": "SoundBlitz",
+    "availability": "In Stock"
+  },
+  {
+    "id": 6,
+    "img": "https://th.bing.com/th/id/OIP.HZPJE1V6iDZ_XE-iXz0VZgHaHa?w=190&h=190&c=7&r=0&o=5&pid=1.7",
+    "price": 199.99,
+    "name": "Bluetooth Speaker",
+    "description": "Fitness tracking smartwatch with heart rate monitor and GPS.",
+    "brand": "FitTech",
+    "availability": "Limited Stock"
+  },
+  {
+    "id": 7,
+    "img": "https://th.bing.com/th/id/OIP.Zk8F5CI1UKocMt2ZHM2EqAHaHa?w=200&h=200&c=7&r=0&o=5&pid=1.7",
+    "name": "Tablet",
+    "price": 349.99,
+    "description": "10.1-inch tablet with 64GB storage, Wi-Fi, and 8MP camera.",
+    "brand": "TabPro",
+    "availability": "In Stock"
+  },
+  {
+    "id": 8,
+    "img": "https://th.bing.com/th/id/OIP.qyE6FIrSMo2YgOMNFrwQOwHaGk?w=202&h=180&c=7&r=0&o=5&pid=1.7",
+    "name": "External Hard Drive",
+    "price": 89.99,
+    "description": "2TB portable external hard drive with USB 3.0 support.",
+    "brand": "DataSafe",
+    "availability": "In Stock"
+  },
+  {
+    "id": 9,
+    "img": "https://th.bing.com/th/id/OIP.F-oj7W9agXsYpwPuxlXjtwHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7",
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "description": "Ergonomic wireless mouse with adjustable DPI and rechargeable battery.",
+    "brand": "ClickMaster",
+    "availability": "In Stock"
+  },
+  {
+    "id": 10,
+    "img": "https://th.bing.com/th/id/OIP.PQRYxpxA8tot0xTCw6xF7gAAAA?w=261&h=180&c=7&r=0&o=5&pid=1.7",
+    "name": "Mechanical Keyboard",
+    "price": 99.99,
+    "description": "RGB backlit mechanical keyboard with programmable keys.",
+    "brand": "TypePro",
+    "availability": "Out of Stock"
+  }
+]
